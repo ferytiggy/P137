@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background: linear-gradient(0deg, rgb(241, 146, 146) 50%, rgba(253,187,45,1) 50%);
+
+
+}
+#input{
+    border-radius: 55px;
+    border-width: 0px;
+}
+.boton{
+    border-radius: 55px;
+    border-width: 0px;
+}
